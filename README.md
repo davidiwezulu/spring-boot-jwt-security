@@ -9,7 +9,7 @@ This repository contains a fully-functional security package for Spring Boot app
 - Easy integration with Spring Boot applications.
 - Includes exception handling for security-related issues.
 - Stateless authentication suitable for microservices and RESTful APIs.
-
+ 
 ## How to Use
 
 ### 1. Adding the Package to Your Project
