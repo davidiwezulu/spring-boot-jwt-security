@@ -1,4 +1,4 @@
-# Spring Boot JWT Security Package
+# Java Spring Boot JWT Security Package
 
 This repository contains a fully-functional security package for Spring Boot applications. It provides authentication and authorization using JSON Web Tokens (JWT), role-based access control, and customizable security configurations.
 
