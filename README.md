@@ -216,12 +216,6 @@ This package is licensed under the MIT License. See the LICENSE file for details
 ### Key Takeaways
 
 - **JitPack Integration**: Using JitPack makes the package easily accessible without requiring complex setup. Users can include the dependency directly in their `pom.xml` or `build.gradle`.
-  
-- **Instructions for Cloning**: If JitPack is not an option, clear instructions for cloning the repository and integrating it as a local module are provided.
-
-- **Usage Example**: Example requests for user registration, authentication, and accessing protected endpoints using JWT are detailed, making it easy for users to get started.
-
-- **Documentation**: The `README.md` includes all necessary steps, including configuration.
 ```
 
 
