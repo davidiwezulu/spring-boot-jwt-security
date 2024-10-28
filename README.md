@@ -221,9 +221,7 @@ This package is licensed under the MIT License. See the LICENSE file for details
 
 - **Usage Example**: Example requests for user registration, authentication, and accessing protected endpoints using JWT are detailed, making it easy for users to get started.
 
-- **Documentation**: The `README.md` includes all necessary steps, including configuration, adding dependencies, and endpoint examples.
-
-By following these steps, the package can be made publicly available and easy to use for developers who want to integrate JWT-based security into their Spring Boot applications.
+- **Documentation**: The `README.md` includes all necessary steps, including configuration.
 ```
 
 
